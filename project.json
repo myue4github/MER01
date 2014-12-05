@@ -1,0 +1,10 @@
+{
+    "name": "MER01",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "MER01.xml",
+    "author": "myue4github",
+    "minimum_firmware_version": 42
+}
